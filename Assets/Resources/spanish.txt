@@ -1,0 +1,150 @@
+{
+    "organisms": [
+        {
+
+            "ID": 0,
+            "Name": "Boulder Brain Coral",
+            "Desc": "Animal that can live for over 250 years.Polyps emerge at night and retract inside the hard-coral skeleton during the daytime. Threatened by: predation of stoplight parrotfish and three-spot damselfish and raising seawater temperatures that leads to coral bleaching. ",
+            "Scientific": "Colpophyllia natans",
+            "Slug": "BoulderBrainCoral"
+
+
+        },
+        {
+            "ID": 1,
+            "Name": "Staghorn Coral",
+            "Desc": "Used to be the dominant coral on Caribbean reefs until the 1980s, the population declined 97% from white band disease. Colonial corals reproduce asexually when branches break off a colony and reattach to the substrate.",
+            "Scientific": "Acropora cervicornis",
+            "Slug": "StaghornCoral"
+
+        },
+        {
+            "ID": 2,
+            "Name": "Elkhorn Coral",
+            "Desc": "Due to their branching structure, this coral provides a habitat and shelter for reef wildlife. Provide storm surge protection by absorbing the energy of storm waves. Threatened by warming waters of the ocean that contributes to coral bleaching.",
+            "Scientific": "Acropora palmata",
+            "Slug": "ElkhornCoral"
+
+        },
+        {
+            "ID": 3,
+            "Name": "Atlantic Long-Finned Squid",
+            "Desc": "Short-lived species (~9 months) that have been targeted along the northeastern coast of the US since the 1880s, first as bait and now as food for humans and bait.",
+            "Scientific": "Loligo pealei",
+            "Slug": "AtlanticLongFinnedSquid"
+
+        },
+        {
+            "ID": 4,
+            "Name": "Banded Arm Brittle Star",
+            "Desc": "Feed nocturnally on decomposed organic material. Can regenerate their arms if attacked by predators.",
+            "Scientific": "Ophioderma appressum",
+            "Slug": "BandedArmBrittleStar"
+
+        },
+        {
+            "ID": 5,
+            "Name": "Sand Dollar",
+            "Desc": "Eat microogranisms and algae with their tube feet. Sense light and temperature by the abundance of sensory cells on the epidermis.",
+            "Scientific": "Mellita quinquiesperforata",
+            "Slug": "SandDollar"
+
+        },
+        {
+            "ID": 6,
+            "Name": "Trumpetfish",
+            "Desc": "Diurnal fish that only hunt in the daytime to hide from prey with the shadows of the reef. Ambush predatory fish that remain motionless and pipette feeds the prey through suction",
+            "Scientific": "Aulostomus maculatus",
+            "Slug": "Trumpetfish"
+
+        },
+        {
+            "ID": 7,
+            "Name": "Rainbow Runner",
+            "Desc": "Fast-swimming carnivorous fish that are highly migratory. Prey consists of small fish, cephlaopods, and planktonic crustaceans.",
+            "Scientific": "Elagatis bipinnulata",
+            "Slug": "RainbowRunner"
+
+        },
+        {
+            "ID": 8,
+            "Name": "Blue Tang",
+            "Desc": "Herbivorous fish that continuously feed on the algae of coral reefs and other surrounding fish. Symbiotic relationship. ",
+            "Scientific": "Acanthurus coeruleus",
+            "Slug": "BlueTang"
+
+        },
+        {
+            "ID": 9,
+            "Name": "Blue Striped Grunt",
+            "Desc": "The grunt travels in schools (up to 1000 grunts) with the French grunt. Feed on shrimp, bivalves, and crustaceans.",
+            "Scientific": "Haemulon sciurus",
+            "Slug": "BlueStripedGrunt"
+
+        },
+        {
+            "ID": 10,
+            "Name": "Banded Butterflyfish",
+            "Desc": "Mainly travel in pairs but can form large schools. Parasite cleaners to other fish. Reproduce through broadcast spawning: female releases egg at the same time as male releases sperm in the water column above the coral reef.",
+            "Scientific": "Chaetodon striatus",
+            "Slug": "BandedButterflyfish"
+
+
+        },
+        {
+            "ID": 11,
+            "Name": "Long Spined Sea Urchin",
+            "Desc": "Graze algae off coral reefs to prevent overgrowth. Have an average lifespan of 6-8 years.",
+            "Scientific": "Diadema antillarum",
+            "Slug": "LongSpinedSeaUrchin"
+
+        },
+        {
+            "ID": 12,
+            "Name": "Forbes Sea Star",
+            "Desc": "Carnviorous echinoderm that feeds on invertebrates, molluscan bivalves, and gastropods. Reach sexual matury at 2-5 years old and live to about 35 years.",
+            "Scientific": "Asterias forbesi",
+            "Slug": "ForbesSeaStar"
+
+        },
+        {
+            "ID": 13,
+            "Name": "Common Sea Fan",
+            "Desc": "Filter feeds on planktons. The purple color comes from chemical pigments produced in the spicules. Reproduce by cloning or fragmentation.",
+            "Scientific": "Gorgonia ventalina",
+            "Slug": "CommonSeaFan"
+
+        },
+        {
+            "ID": 14,
+            "Name": "Angular Sea Whip",
+            "Desc": "Photosynthetic, flattened blade-like branches where white or tan polyps (containing zooxanthellae) merge along the edges.",
+            "Scientific": "Pterogorgia anceps",
+            "Slug": "AngularSeaWhip"
+
+        },
+        {
+            "ID": 15,
+            "Name": "Moon Jellyfish",
+            "Desc": "Almost entirely translucent jellyfish that respies by diffusing oxygen from water through thin membrane covering body. Food source for Ocean Sunfish, Leatherback Sea Turtle, and other bigger jellyfish. Plastic bags can be mistaken for these jellyfish.",
+            "Scientific": "Aurelia aurita",
+            "Slug": "MoonJellyfish"
+
+        },
+        {
+            "ID": 16,
+            "Name": "Branching Vase Sponge",
+            "Desc": "Suspension feeders on plankton that filter out of water currents, contributes to water column productivity.",
+            "Scientific": "Callyspongia vaginalis",
+            "Slug": "BranchingVaseSponge"
+
+        },
+        {
+            "ID": 17,
+            "Name": "Lightning Whelk",
+            "Desc": "Take 10-20 years to grow 8 inches in length. Predatory whelk that feed mostly on bivalves. Native Americans used the shells for tools, jewelry making, and ornaments. ",
+            "Scientific": "Sinistrofulgur perversum",
+            "Slug": "LightningWhelk"
+        }
+    ]
+}

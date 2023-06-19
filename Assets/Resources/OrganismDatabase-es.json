@@ -1,0 +1,150 @@
+{
+ "organismos": [
+ {
+
+ "ID": 0,
+ "Name": "Boulder Brain Coral",
+ "Desc": "Animal que puede vivir más de 250 años. Los pólipos emergen por la noche y se retraen dentro del esqueleto de coral duro durante el día. Amenazados por: depredación de peces loro semáforo y damiselas de tres manchas y aumento de la temperatura del agua de mar que conduce a los corales blanqueamiento. ",
+ "Scientific": "Colpophyllia natans",
+ "Slug": "BoulderBrainCoral"
+
+
+ },
+ {
+ "ID": 1,
+ "Name": "Coral cuerno de ciervo",
+ "Desc": "Solía ​​ser el coral dominante en los arrecifes del Caribe hasta la década de 1980, la población disminuyó en un 97% debido a la enfermedad de la banda blanca. Los corales coloniales se reproducen asexualmente cuando las ramas se desprenden de una colonia y se vuelven a unir al sustrato.",
+ "Scientific": "Acropora cervicornis",
+ "Slug": "StaghornCoral"
+
+ },
+ {
+ "ID": 2,
+ "Name": "Coral cuerno de alce",
+ "Desc": "Debido a su estructura ramificada, este coral proporciona un hábitat y refugio para la vida silvestre del arrecife. Proporciona protección contra las marejadas al absorber la energía de las olas de la tormenta. Amenazado por el calentamiento de las aguas del océano que contribuye al blanqueamiento del coral.",
+ "Scientific": "Acropora palmata",
+ "Slug": "ElkhornCoral"
+
+ },
+ {
+ "ID": 3,
+ "Name": "Calamar de aleta larga del Atlántico",
+ "Desc": "Especies de vida corta (~ 9 meses) que han sido atacadas a lo largo de la costa noreste de los EE. UU. Desde la década de 1880, primero como cebo y ahora como alimento para humanos y cebo.",
+ "Scientific": "Loligo pealei",
+ "Slug": "AtlanticLongFinnedSquid"
+
+ },
+ {
+ "ID": 4,
+ "Name": "Brazo con bandas Brittle Star",
+ "Desc": "Se alimentan por la noche de material orgánico descompuesto. Pueden regenerar sus brazos si son atacados por depredadores.",
+ "Scientific": "Ophioderma appressum",
+ "Slug": "BandedArmBrittleStar"
+
+ },
+ {
+ "ID": 5,
+ "Name": "Dólar de arena",
+ "Desc": "Come microogranismos y algas con sus pies tubulares. Siente la luz y la temperatura por la abundancia de células sensoriales en la epidermis.",
+ "Scientific": "Mellita quinquiesperforata",
+ "Slug": "SandDollar"
+
+ },
+ {
+ "ID": 6,
+ "Name": "Pez trompeta",
+ "Desc": "Peces diurnos que solo cazan durante el día para esconderse de sus presas con las sombras del arrecife. Emboscan a los peces depredadores que permanecen inmóviles y la pipeta alimenta a la presa por succión",
+ "Scientific": "Aulostomus maculatus",
+ "Slug": "Pez trompeta"
+
+ },
+ {
+ "ID": 7,
+ "Name": "Rainbow Runner",
+ "Desc": "Peces carnívoros de nado rápido que son altamente migratorios. La presa consiste en peces pequeños, cefalópodos y crustáceos planctónicos.",
+ "Scientific": "Elagatis bipinnulata",
+ "Slug": "RainbowRunner"
+
+ },
+ {
+ "ID": 8,
+ "Name": "Blue Tang",
+ "Desc": "Peces herbívoros que se alimentan continuamente de las algas de los arrecifes de coral y otros peces circundantes. Relación simbiótica.",
+ "Scientific": "Acanthurus coeruleus",
+ "Slug": "BlueTang"
+
+ },
+ {
+ "ID": 9,
+ "Name": "Ronco de rayas azules",
+ "Desc": "El gruñido viaja en escuelas (hasta 1000 gruñidos) con el gruñido francés. Se alimentan de camarones, bivalvos y crustáceos.",
+ "Scientific": "Haemulon sciurus",
+ "Slug": "BlueStripedGrunt"
+
+ },
+ {
+ "ID": 10,
+ "Name": "Pez mariposa con bandas",
+ "Desc": "Principalmente viajan en parejas pero pueden formar grandes cardúmenes. Limpiadores de parásitos para otros peces. Se reproducen a través del desove al aire: la hembra libera el huevo al mismo tiempo que el macho libera el esperma en la columna de agua sobre el arrecife de coral.",
+ "Scientific": "Chaetodon striatus",
+ "Slug": "Pez mariposa anillado"
+
+
+ },
+ {
+ "ID": 11,
+ "Name": "Erizo de mar de espinas largas",
+ "Desc": "Saque las algas de los arrecifes de coral para evitar el crecimiento excesivo. Tienen una vida útil promedio de 6-8 años.",
+ "Scientific": "Diadema antillarum",
+ "Slug": "LongSpinedSeaUrchin"
+
+ },
+ {
+ "ID": 12,
+ "Name": "Forbes Sea Star",
+ "Desc": "Equinodermo carnívoro que se alimenta de invertebrados, moluscos bivalvos y gasterópodos. Alcanza la madurez sexual a los 2-5 años y vive unos 35 años.",
+ "Scientific": "Asterias forbesi",
+ "Slug": "ForbesSeaStar"
+
+ },
+ {
+ "ID": 13,
+ "Name": "Abanico marino común",
+ "Desc": "El filtro se alimenta de plancton. El color púrpura proviene de los pigmentos químicos producidos en las espículas. Se reproduce por clonación o fragmentación.",
+ "Scientific": "Gorgonia ventalina",
+ "Slug": "CommonSeaFan"
+
+ },
+ {
+ "ID": 14,
+ "Name": "Látigo de mar angular",
+ "Desc": "Ramas fotosintéticas, aplanadas en forma de cuchilla donde los pólipos blancos o tostados (que contienen zooxantelas) se fusionan a lo largo de los bordes.",
+ "Scientific": "Pterogorgia anceps",
+ "Slug": "AngularSeaWhip"
+
+ },
+ {
+ "ID": 15,
+ "Name": "Medusa luna",
+ "Desc": "Medusa casi completamente translúcida que respira difundiendo oxígeno del agua a través de una membrana delgada que cubre el cuerpo. Fuente de alimento para el pez luna, la tortuga laúd y otras medusas más grandes. Las bolsas de plástico pueden confundirse con estas medusas.",
+ "Scientific": "Aurelia aurita",
+ "Slug": "MoonJellyfish"
+
+ },
+ {
+ "ID": 16,
+ "Name": "Esponja de florero ramificado",
+ "Desc": "Alimentadores en suspensión de plancton que se filtran fuera de las corrientes de agua, contribuyen a la productividad de la columna de agua.",
+ "Scientific": "Callyspongia vaginalis",
+ "Slug": "BranchingVaseSponge"
+
+ },
+ {
+ "ID": 17,
+ "Name": "Buccino relámpago",
+ "Desc": "Tarda entre 10 y 20 años en crecer 8 pulgadas de largo. Buccino depredador que se alimenta principalmente de bivalvos. Los nativos americanos usaban las conchas como herramientas, fabricación de joyas y adornos.",
+ "Scientific": "Sinistrofulgur perversum",
+ "Slug": "LightningWhelk"
+ }
+ ]
+}
